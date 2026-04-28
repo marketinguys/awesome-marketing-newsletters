@@ -53,6 +53,7 @@ A curated list of the best marketing newsletters to keep you informed about tren
 
 - [The Marketing AI Institute](https://www.marketingaiinstitute.com/) - Insights into AI-driven marketing strategies and tools.
 - [Marketoonist](https://marketoonist.com/) - Uses humor and creative insight to address trends in tech marketing.
+- [Creative AI News](https://www.creativeainews.com) - Weekly AI tools and workflows for every working creator: image, video, audio, 3D, and code.
 
 ### Local and Niche Marketing
 
