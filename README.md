@@ -10,6 +10,7 @@ A curated list of the best marketing newsletters to keep you informed about tren
 - [Copywriting and Creativity](#copywriting-and-creativity)
 - [Growth Hacking and Startups](#growth-hacking-and-startups)
 - [AI and Technology](#ai-and-technology)
+- [AI Weekly](https://aiweekly.co) - Independent AI news newsletter, 3x/week, covering the few AI stories that matter for professionals.
 - [Local and Niche Marketing](#local-and-niche-marketing)
 
 ---
