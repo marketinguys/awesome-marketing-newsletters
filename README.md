@@ -20,6 +20,7 @@ A curated list of the best marketing newsletters to keep you informed about tren
 - [Marketing Brew](https://www.morningbrew.com/marketing) - Daily marketing news and trends in a conversational tone.
 - [The Reeder](https://thereeder.co/) - Curated marketing news and insights, providing a comprehensive overview of industry developments.
 - [ClickZ](https://www.clickz.com/) - Focuses on digital marketing news and industry best practices.
+- [MarketingShot](https://marketingshot.com) - The latest marketing news, tactics, tools, and campaign breakdowns for marketers.
 
 ### Industry-Specific
 
