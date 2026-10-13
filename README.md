@@ -20,6 +20,7 @@ A curated list of the best marketing newsletters to keep you informed about tren
 - [Marketing Brew](https://www.morningbrew.com/marketing) - Daily marketing news and trends in a conversational tone.
 - [The Reeder](https://thereeder.co/) - Curated marketing news and insights, providing a comprehensive overview of industry developments.
 - [ClickZ](https://www.clickz.com/) - Focuses on digital marketing news and industry best practices.
+- [Stacy's Brain](https://newsletter.stacysbrain.com/) - Evidence-based marketing and growth: vetted insights from research, experiments and vendor reports, each rated by how much you can trust it.
 
 ### Industry-Specific
 
